@@ -231,7 +231,7 @@ This is a living framework. If you develop improvements to the rules, useful mem
 
 ## 📄 License
 
-Released into the public domain. Adapt freely — no attribution required, though it's appreciated.
+Released into the public domain. MIT License.
 
 ---
 

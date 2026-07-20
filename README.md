@@ -22,9 +22,7 @@ José Silva later developed related visualization practices through the Silva Me
 
 In modern use, this kind of council is often treated as a creative-thinking, visualization, or structured self-dialogue exercise: a way to imagine trusted advisors, test decisions, and surface perspectives that would be hard to reach in ordinary inner monologue.
 
-If publishing this repository, replace the author line below with your preferred name:
-
-> Created and adapted by **GigaPacho**
+Created and adapted by **GigaPacho**
 
 ---
 
